@@ -13,6 +13,7 @@ choices = [
     [51, 0, 0],
     [51, 0, 51],
     [51, 51, 0],
+    [51, 51, 51],
 ]
 
 # pick color, brighten up then fade away
