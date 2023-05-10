@@ -8,3 +8,4 @@
 
 - [builtin-button-interrupt](builtin-button-interrupt)
 - [builtin-button-polling](builtin-button-polling)
+- [builtin-led-rgb](builtin-led-rgb-sk6812)
